@@ -1,8 +1,4 @@
-To start project you need:
-    java 1.8
-    scala 1.12
-    sbt
-
+To start project you need: java 1.8, scala 1.12, sbt
 
 To run tests use command 
 
